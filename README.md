@@ -63,6 +63,8 @@ Use `--help` to see the available flags.
 
 If that sentence meant nothing: don't worry, the scripts will ask you for any information they need.
 
+If you got an error that ended "ModuleNotFoundError: No module named 'click'" then type "pip install click" and then try again.
+
 ## Unanswered questions and notes
 
 *   I have no idea how Tumblr's content blocks interact with the API, or if blocked posts are visible through the API.
